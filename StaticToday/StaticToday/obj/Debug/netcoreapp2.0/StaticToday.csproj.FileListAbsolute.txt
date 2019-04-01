@@ -1,0 +1,11 @@
+C:\Users\narma\Desktop\ASP NET\StaticToday\StaticToday\bin\Debug\netcoreapp2.0\StaticToday.deps.json
+C:\Users\narma\Desktop\ASP NET\StaticToday\StaticToday\bin\Debug\netcoreapp2.0\StaticToday.runtimeconfig.json
+C:\Users\narma\Desktop\ASP NET\StaticToday\StaticToday\bin\Debug\netcoreapp2.0\StaticToday.runtimeconfig.dev.json
+C:\Users\narma\Desktop\ASP NET\StaticToday\StaticToday\bin\Debug\netcoreapp2.0\StaticToday.dll
+C:\Users\narma\Desktop\ASP NET\StaticToday\StaticToday\bin\Debug\netcoreapp2.0\StaticToday.pdb
+C:\Users\narma\Desktop\ASP NET\StaticToday\StaticToday\obj\Debug\netcoreapp2.0\StaticToday.csprojAssemblyReference.cache
+C:\Users\narma\Desktop\ASP NET\StaticToday\StaticToday\obj\Debug\netcoreapp2.0\StaticToday.csproj.CoreCompileInputs.cache
+C:\Users\narma\Desktop\ASP NET\StaticToday\StaticToday\obj\Debug\netcoreapp2.0\StaticToday.AssemblyInfoInputs.cache
+C:\Users\narma\Desktop\ASP NET\StaticToday\StaticToday\obj\Debug\netcoreapp2.0\StaticToday.AssemblyInfo.cs
+C:\Users\narma\Desktop\ASP NET\StaticToday\StaticToday\obj\Debug\netcoreapp2.0\StaticToday.dll
+C:\Users\narma\Desktop\ASP NET\StaticToday\StaticToday\obj\Debug\netcoreapp2.0\StaticToday.pdb
